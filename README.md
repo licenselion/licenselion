@@ -1,6 +1,15 @@
 - 👋 Hi, We are @licenselion
+
+  
 - 👀 We are currently interested and working on ...
+
+# Release 1 = LicenseLion-RCUPDATE v1.0-BETA Coming May 2024!
+
+- Coming Soon = Custom cPanel/WHM, Virtualizor, Webuzo scripts and more!
+
+  
 - 📫 How to reach us ...
+
 
 - ⚡ Fun fact: ...
 
